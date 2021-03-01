@@ -1,1 +1,5 @@
-graphene
+graphene==2.1.8
+django==3.1.7
+graphene-django==2.15.0
+django-graphql-jwt==0.3.1
+django-cors-headers==3.7.0
